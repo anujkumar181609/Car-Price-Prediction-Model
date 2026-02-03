@@ -65,7 +65,11 @@ The model explains a meaningful portion of price variance while leaving room for
 
 ## 🖥️ Demo
 
-👉 Add application screenshots here to increase recruiter engagement.
+### Home Interface
+![Home](images/home.png)
+
+### Prediction Example
+![Prediction](images/prediction.png)
 
 ---
 
