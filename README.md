@@ -63,17 +63,6 @@ The model explains a meaningful portion of price variance while leaving room for
 
 ---
 
-## 🖥️ Demo
-
-![App Screenshot](screenshots/home.png)
-
-### Home Interface
-![Home](screenshots/home.png)
-
-### Prediction Example
-![Prediction](screenshots/prediction.png)
-
----
 
 ## ▶️ Run Locally
 
