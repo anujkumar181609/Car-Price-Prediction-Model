@@ -66,10 +66,10 @@ The model explains a meaningful portion of price variance while leaving room for
 ## 🖥️ Demo
 
 ### Home Interface
-![Home](images/home.png)
+![Home](home.png)
 
 ### Prediction Example
-![Prediction](images/prediction.png)
+![Prediction](prediction.png)
 
 ---
 
