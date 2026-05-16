@@ -2,12 +2,16 @@ import streamlit as st
 import pandas as pd
 import pickle
 from datetime import datetime
+from pathlib import Path
 
 #importing dataset
-df= pd.read_csv('car_price.csv')
+BASE_DIR = Path(__file__).resolve().parent
+csv_path = BASE_DIR / "car_price.csv"
+df = pd.read_csv(csv_path)
 
 #importing model
-model= pickle.load(open('car_price_model.pkl','rb'))
+model_path = BASE_DIR / "car_price_model.pkl"
+model = pickle.load(open(model_path, 'rb'))
 
 #heading
 st.title("Car Price Prediction Model")
