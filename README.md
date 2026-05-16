@@ -1,5 +1,5 @@
 # 🚗 Car Price Prediction  
-⭐ End-to-End Machine Learning Project
+⭐ End-to-End Machine Learning Web Application
 
 A Machine Learning web application that predicts the resale value of used cars using **Multiple Linear Regression**.  
 Built to develop strong fundamentals in data preprocessing, feature engineering, model training, and real-world deployment.
@@ -62,13 +62,18 @@ This project trains a regression model on historical data and deploys it with **
 The model explains a meaningful portion of price variance while leaving room for future improvements through advanced techniques and larger datasets.
 
 ---
+## 🌐 Live Demo
 
+🚀 Try the deployed application here:
 
+[Car Price Prediction App](https://car-price-prediction-model-jukmk2nespub6trdncfwrd.streamlit.app/)
+
+---
 ## ▶️ Run Locally
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/car-price-prediction.git
+git clone https://github.com/anujkumar181609/Car-Price-Prediction-Model.git
 
 # Navigate into the project
 cd car-price-prediction
