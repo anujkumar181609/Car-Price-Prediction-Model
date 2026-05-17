@@ -102,7 +102,6 @@ streamlit run app.py
 
 - Experiment with advanced regression models  
 - Perform hyperparameter tuning  
-- Deploy on cloud platforms  
 - Improve accuracy with larger datasets  
 
 ---
