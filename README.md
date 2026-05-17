@@ -67,7 +67,7 @@ The model explains a meaningful portion of price variance while leaving room for
 🚀 Try the deployed application here:
 
 [Car Price Prediction App](https://car-price-prediction-model-jukmk2nespub6trdncfwrd.streamlit.app/)
-
+> ⚠️ Note: The application is hosted on Streamlit Community Cloud free tier and may take a few seconds to wake up after inactivity.
 ---
 ## ▶️ Run Locally
 
